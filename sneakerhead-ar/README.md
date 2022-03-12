@@ -8,7 +8,7 @@ Sneakerhead is an ecom website which allows to try sneakers in ***AR (Augmented 
 
 # :computer: Live Demo Link:
 
-On the website there is a <a href="https://github.com/karansahi001/ar-sneakerhead/new/main?readme=1#how-to-use-ar-feature">"How to use AR feature"</a> section on the homepage (just scroll a bit and you will find it), please look at that section to get an idea of how to use the AR feature.
+On the website there is a "How to use AR feature" section on the homepage (just scroll a bit and you will find it), please look at that section to get an idea of how to use the AR feature.
 
 **LINK:**  https://arsneakerhead.netlify.app/
 
