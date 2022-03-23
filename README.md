@@ -1,6 +1,7 @@
-![Screenshot (92)](https://user-images.githubusercontent.com/97867019/158023430-b2c117fe-23bb-4842-80db-72063a0f8b94.png)
+<!-- ![Screenshot (92)](https://user-images.githubusercontent.com/97867019/158023430-b2c117fe-23bb-4842-80db-72063a0f8b94.png) -->
 
 # 👟 AR Sneakerhead
+![Screenshot (100)](https://user-images.githubusercontent.com/97867019/159622049-2a07187d-c644-4655-996c-a3301cb4706d.png)
 
 Sneakerhead is an ecom website which allows to try sneakers in ***AR (Augmented Reality)***. Users can see sneakers in AR before buying them. Website is built with Reactjs, other info about the technologies used are mentioned in upcoming paragraphs.
 
